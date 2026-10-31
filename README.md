@@ -4,12 +4,8 @@
 
 ### Build an AI chatbot that remembers you across sessions with LangChain and PostgreSQL
 
-**CS 466: Natural Language Processing & Large Language Models**  
-**Instructor:** Dr. G. G. Md Nawaz Ali, Bradley University
-
 [Watch the LLM & Agentic AI lecture series](https://www.youtube.com/playlist?list=PLfpB0rPkNb_8)
 
-> The banner links to the lecture playlist. Replace that link with this lecture’s video URL when it is available.
 
 ## About this class
 
@@ -224,8 +220,3 @@ For a production chatbot, derive `user_id` from the authenticated session and en
 - [LangChain: Long-term memory](https://docs.langchain.com/oss/python/langchain/long-term-memory)
 - [PostgreSQL documentation](https://www.postgresql.org/docs/)
 
-## Banner and repository files
-
-Keep `README.md` at the repository root and upload `assets/yt-banner.png` with it. The relative image path at the top of this README will then render on GitHub.
-
-The download package includes both files. The banner is an AI-generated illustration created for this lecture.
