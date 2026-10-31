@@ -5,6 +5,7 @@
 ### Build an AI chatbot that remembers you across sessions with LangChain and PostgreSQL
 
 [This Lecture video link](https://youtu.be/S71Ahw6pKb0?si=rfTtaDjrAOF0z2sC)
+
 [Watch the LLM & Agentic AI lecture series](https://www.youtube.com/playlist?list=PLfpB0rPkNb_8)
 
 
